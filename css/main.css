@@ -1896,7 +1896,7 @@ header{
  * ------------------------------------------------------------------
  */
 .popup-modal {
-	max-width: 550px;
+	max-width: 300px;
 	background: #FFFFFF;
 	position: relative;
 	margin: 0 auto;
